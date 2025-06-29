@@ -18,7 +18,7 @@
   
 `yum install wget -y` 
 
-> 此处不能执行`yum update -y` 更新服务器系统，否则后续执行安装脚本会报错。
+> 注意此处不能执行`yum update -y` 更新服务器系统，否则后续执行安装脚本会报错。
 
 ![wget包安装](https://github.com/yun-gif/Bandwagon-install-wulabing-V2Ray/blob/main/2.png)
 
