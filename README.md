@@ -31,3 +31,9 @@
 * 输入数字`1`
 
 * 后面输入解析到 Bandwagon 云服务器 IP 的域名，一路回车即可。
+
+### 捐赠
+
+欢迎使用我的 Bandwagon AFF 购买云服务器
+
+https://bandwagonhost.com/aff.php?aff=78570
